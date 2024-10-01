@@ -18,4 +18,16 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/js-mini-projects.git
+   git clone https://github.com/Adityarajsah/js-mini-projects.git
+
+2. cd js-mini-projects/calculator
+
+3. Open index.html in your web browser.
+
+4. Enter numbers using the on-screen buttons or keyboard.
+
+5. Select the desired operation (+, -, *, /).
+
+6. Click the "=" button to see the result.
+
+7. Use the "C" button to clear the calculator.
